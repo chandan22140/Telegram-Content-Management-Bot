@@ -1,0 +1,782 @@
+{
+    "IIITD": {
+        "1": {
+            "SEMESTER 1": {
+                "CSE": {
+                    "IP": "IIITD_IP_CSE101"
+                },
+                "ECE": {
+                    "DC": "IIITD_DC_ECE111"
+                },
+                "HCD": {
+                    "IHCI": "IIITD_IHCI_DES102"
+                },
+                "MATHS": {
+                    "M-I": "IIITD_M-I_MTH100"
+                },
+                "SSH": {
+                    "COM": "IIITD_COM_COM101"
+                }
+            },
+            "SEMESTER 2": {
+                "CB": {
+                    "FOB": "IIITD_FOB_BIO101"
+                },
+                "CSE": {
+                    "CO": "IIITD_CO_CSE112",
+                    "DSA": "IIITD_DSA_CSE102",
+                    "IIS": "IIITD_IIS_CSE140"
+                },
+                "ECE": {
+                    "BE": "IIITD_BE_ECE113",
+                    "CO": "IIITD_CO_CSE112",
+                    "P&S": "IIITD_P&S_MTH201"
+                },
+                "HCD": {
+                    "DDV": "IIITD_DDV_DES101",
+                    "VDC": "IIITD_VDC_DES202"
+                },
+                "MATHS": {
+                    "P&S": "IIITD_P&S_MTH201"
+                },
+                "SSH": {
+                    "CTRSS": "IIITD_CTRSS_SSH101",
+                    "ISA": "IIITD_ISA_SOC101",
+                    "MB": "IIITD_MB_ECO223"
+                }
+            }
+        },
+        "2": {
+            "SEMESTER 3": {
+                "CB": {
+                    "CBB": "IIITD_CBB_BIO211",
+                    "GMB": "IIITD_GMB_BIO214"
+                },
+                "CSE": {
+                    "DSA": "IIITD_DSA_CSE102",
+                    "DM": "IIITD_DM_CSE121",
+                    "AP": "IIITD_AP_CSE201",
+                    "OS": "IIITD_OS_CSE231"
+                },
+                "HCD": {
+                    "DPP": "IIITD_DPP_DES201"
+                },
+                "MATHS": {
+                    "M-III": "IIITD_M-III_MTH203",
+                    "DM": "IIITD_DM_CSE121",
+                    "DS": "IIITD_DS_MTH210",
+                    "NT": "IIITD_NT_MTH211",
+                    "RA-I": "IIITD_RA-I_MTH240"
+                },
+                "SSH": {
+                    "CGS": "IIITD_CGS_SSH225A",
+                    "FOE": "IIITD_FOE_ENT201",
+                    "RMSSD": "IIITD_RMSSD_SSH201",
+                    "SOE": "IIITD_SoE_ENT202",
+                    "SPP": "IIITD_SPP_SSH221",
+                    "STS": "IIITD_STS_SOC211"
+                },
+                "ECE": {
+                    "CTD": "IIITD_CTD_ECE215",
+                    "ELD": "IIITD_ELD_ECE270",
+                    "S&S": "IIITD_S&S_ECE250"
+                }
+            },
+            "SEMESTER 4": {
+                "CB": {
+                    "IQB": "IIITD_IQB_BIO213",
+                    "PB": "IIITD_PB_BIO221"
+                },
+                "CSE": {
+                    "DBMS": "IIITD_DBMS_CSE202",
+                    "ADA": "IIITD_ADA_CSE222",
+                    "TOC": "IIITD_ToC_CSE322",
+                    "SML": "IIITD_SML_CSE342/ECE356"
+                },
+                "ECE": {
+                    "IE": "IIITD_IE_ECE214",
+                    "F&W": "IIITD_F&W_ECE230",
+                    "PCS": "IIITD_PCS_ECE240"
+                },
+                "HCD": {
+                    "DIS": "IIITD_DIS_DES205",
+                    "PIS": "IIITD_PIS_DES206"
+                },
+                "MATHS": {
+                    "M-IV": "IIITD_M-IV_MTH204",
+                    "AA-I": "IIITD_AA-I_MTH212",
+                    "IML": "IIITD_IML_MTH300",
+                    "GT": "IIITD_GT_MTH310",
+                    "SI": "IIITD_SI_MTH372"
+                },
+                "SSH": {
+                    "COO": "IIITD_COO_MTH377/MTH577",
+                    "MA": "IIITD_MA_ECO333",
+                    "ECO": "IIITD_ECO_ECO221",
+                    "ITS": "IIITD_ITS_SOC207",
+                    "ST1": "IIITD_ST1_SOC210",
+                    "NN": "IIITD_NN_SSH215",
+                    "EI": "IIITD_EI_SSH325/525",
+                    "SOE": "IIITD_SoE_ENT404",
+                    "FOM": "IIITD_FOM_ENTxxx",
+                    "EEE": "IIITD_EEE_ESC207",
+                    "ECOMM": "IIITD_ECOMM_MGT310"
+                }
+            }
+        },
+        "3": {
+            "SEMESTER 5": {
+                "BIO": {
+                    "COMEG": "IIITD_CoMeGBIO5xx"
+                },
+                "CB": {
+                    "BIOP": "IIITD_BioP_BIO361",
+                    "ABIN": "IIITD_ABIN_BIO321",
+                    "CHI": "IIITD_Chi_BIO523",
+                    "MLBA": "IIITD_MLBA_BIO542",
+                    "NB": "IIITD_NB_BIO532",
+                    "CGAS": "IIITD_CGAS_BIO544",
+                    "CBB": "IIITD_CBB_BIO511",
+                    "CM": "IIITD_CM_BIO546_CSE585",
+                    "FOMB": "IIITD_FOMB_BIO512",
+                    "COMEG": "IIITD_CoMeG_BIO549",
+                    "BIP": "IIITD_BIP_BIO524",
+                    "PCB": "IIITD_PCB_BIO551A"
+                },
+                "CSE": {
+                    "GA": "IIITD_GA_CSE525",
+                    "ML": "IIITD_ML_CSE343_CSE543_ECE363_E\nCE563",
+                    "OOPD": "IIITD_OOPD_CSE600A/ECE600A",
+                    "CN": "IIITD_CN_CSE232",
+                    "DIP": "IIITD_DIP_CSE340_CSE540_ECE350",
+                    "FCS": "IIITD_FCS_CSE345_CSE545",
+                    "AI": "IIITD_AI_CSE643",
+                    "MAD": "IIITD_MAD_CSE319_CSE519",
+                    "NLP": "IIITD_NLP_CSE556",
+                    "IIA": "IIITD_IIA_CSE656",
+                    "CG": "IIITD_CG_CSE333_CSE533",
+                    "CMP": "IIITD_CMP_CSE301/CSE601",
+                    "AML": "IIITD_AML_CSE642",
+                    "AC": "IIITD_AC_CSE546",
+                    "CA": "IIITD_CA_ECE511_CSE511",
+                    "AAG": "IIITD_AAG_CSE529",
+                    "DMG": "IIITD_DMG_CSE506",
+                    "PRMP": "IIITD_PRMP_CSE513",
+                    "CLDC": "IIITD_CldC_CSE569",
+                    "AUU": "IIITD_AUU_CSE586",
+                    "DFML": "IIITD_DFML_CSE665A",
+                    "DP": "IIITD_DP_CSE504",
+                    "DSC": "IIITD_DSc_CSE558",
+                    "NSS I": "IIITD_NSS I_CSE553",
+                    "OOPD(2)": "IIITD_OOPD(2)_ECE600A",
+                    "OOPD(4)": "IIITD_OOPD(4)_CSE600_ECE600",
+                    "SDOS": "IIITD_SDOS_CSE583",
+                    "TDL": "IIITD_TDL_CSE516_ECE559",
+                    "WN": "IIITD_WN_CSE538_ECE538"
+                },
+                "ECE": {
+                    "DCS": "IIITD_DCS_ECE340",
+                    "DSP": "IIITD_DSP_ECE351",
+                    "OWC": "IIITD_OWC_ECE546",
+                    "DVD": "IIITD_DVD_ECE314_ECE514",
+                    "PRP": "IIITD_PRP_ECE501",
+                    "CMOS": "IIITD_CMOS_ECE315_ECE515",
+                    "TGI": "IIITD_TGI_ECE565",
+                    "DPM": "IIITD_DPM_ECE560",
+                    "QMD": "IIITD_QMD_ECE524",
+                    "BML": "IIITD_BML_ECE551_CSE515",
+                    "ICF": "IIITD_ICF_ECE522",
+                    "LST": "IIITD_LST_ECE570",
+                    "RL": "IIITD_RL_ECE564_CSE564",
+                    "QM": "IIITD_QM_ECE525",
+                    "IROB": "IIITD_IRob_CSE633_ECE670",
+                    "SSD": "IIITD_SSD_ECE318_ECE518",
+                    "WSI": "IIITD_WSI_ECE539",
+                    "ADL": "IIITD_ADL_ECE677_CSE677",
+                    "DPD": "IIITD_DPD_ECE523A",
+                    "PDCS": "IIITD_PDCS_ECE543",
+                    "QCN": "IIITD_QCN_ECE530"
+                },
+                "HCD": {
+                    "IAG": "IIITD_IAG_DES302",
+                    "3DAF": "IIITD_3DAF_DES305",
+                    "DAVP": "IIITD_DAVP_DES514",
+                    "DF": "IIITD_DF_DES509",
+                    "EFD": "IIITD_EFD_DES524",
+                    "BAI": "IIITD_BAI_DES530",
+                    "FAE": "IIITD_FAE_DES501",
+                    "IDUDA": "IIITD_IDUDA_DES522",
+                    "MDG": "IIITD_MDG_DES526_307",
+                    "UDXR": "IIITD_UDXR_DES527"
+                },
+                "MATHS": {
+                    "TNT": "IIITD_TNT_MTH518",
+                    "CMPA": "IIITD_CmpA_MTH341_MTH541",
+                    "SC": "IIITD_SC_MTH373_MTH573",
+                    "SPA": "IIITD_SPA_MTH371",
+                    "ITA": "IIITD_ITA_MTH571",
+                    "RA-II": "IIITD_RA-II_MTH340_MTH540",
+                    "IAGA": "IIITD_IAGA_MTH561",
+                    "NDMA": "IIITD_NDMA_MTH359_MTH559",
+                    "PST": "IIITD_PST_MTH562",
+                    "TML": "IIITD_TML_MTH506"
+                },
+                "SSH": {
+                    "KPCC": "IIITD_KPCC_SSH700",
+                    "PT": "IIITD_PT_SSH322/SSH522",
+                    "FF": "IIITD_FF_ECO331",
+                    "TCOM": "IIITD_Tcom_COM301A",
+                    "ME": "IIITD_ME_ECO301",
+                    "EVS": "IIITD_EVS_ESC205A",
+                    "EK": "IIITD_EK_ENT412",
+                    "SSSE": "IIITD_SSSE_ECO324/ECO524",
+                    "TFW": "IIITD_TFW_SOC314_SOC512",
+                    "GMT": "IIITD_GMT_ECO311_ECO511",
+                    "NDM": "IIITD_NDM_PSY307_PSY507",
+                    "ETB": "IIITD_ETB_SOC513",
+                    "ECOMM": "IIITD_EComm_ENT411",
+                    "USPP": "IIITD_USPP_SSH362_SSH562",
+                    "CT": "IIITD_CT_ECO502",
+                    "G&M": "IIITD_G&M_SOC308_SOC514",
+                    "CMM": "IIITD_CMM_PSY308_PSY508",
+                    "AERM": "IIITD_AERM_SOC311_SOC501",
+                    "BECO": "IIITD_Beco_ECO314",
+                    "CGS": "IIITD_CGS_SSH225A",
+                    "CI": "IIITD_CI_ECO323_ECO523",
+                    "CMSMR": "IIITD_CMSMR_SSH327A_SSH527A",
+                    "FOE": "IIITD_FOE_ENT201",
+                    "NVP": "IIITD_NVP_ENT415",
+                    "RHPS": "IIITD_RHPS_SSH526_726",
+                    "SOE": "IIITD_SoE_ENT202",
+                    "STS": "IIITD_STS_SOC211"
+                }
+            },
+            "SEMESTER 6": {
+                "CB": {
+                    "ACB": "IIITD_ACB_BIO522",
+                    "IMB": "IIITD_IMB_BIO531",
+                    "BDMH": "IIITD_BDMH_BIO543",
+                    "BIOSTATS": "IIITD_BioStats_BIO545",
+                    "HMDS": "IIITD_HMDS_BIO548",
+                    "CADD": "IIITD_CADD_BIO563",
+                    "DSG": "IIITD_DSG_BIO541",
+                    "NS": "IIITD_NS_CSE655"
+                },
+                "CSE": {
+                    "TOC": "IIITD_ToC_CSE322",
+                    "DSCD": "IIITD_DSCD_CSE530",
+                    "SAP": "IIITD_SAP_CSE572/ECE561",
+                    "SML": "IIITD_SML_CSE542/ECE556",
+                    "CV": "IIITD_CV_CSE344/CSE544/ECE344/ECE544",
+                    "NSC": "IIITD_NSC_CSE350/CSE550",
+                    "NSS-II": "IIITD_NSS-II_CSE354/CSE554",
+                    "USS": "IIITD_UsS_CSE347/652/DES525/DES306",
+                    "FPP": "IIITD_FPP_CSE502",
+                    "IR": "IIITD_IR_CSE508",
+                    "CLDS": "IIITD_CLDS_CSE518",
+                    "RA": "IIITD_RA_CSE523",
+                    "LCS": "IIITD_LCS_CSE526",
+                    "MC": "IIITD_MC_CSE535",
+                    "WN": "IIITD_WN_CSE538/ECE538",
+                    "BDA": "IIITD_BDA_CSE557",
+                    "GPU": "IIITD_GPU_CSE560",
+                    "PN": "IIITD_PN_CSE567",
+                    "ISY": "IIITD_ISy_CSE573",
+                    "MTL": "IIITD_MTL_CSE618",
+                    "IQC": "IIITD_IQC_CSE622",
+                    "SWEB": "IIITD_Sweb_CSE632",
+                    "CF": "IIITD_CF_CSE640",
+                    "DL": "IIITD_DL_CSE641",
+                    "TAIS": "IIITD_TAIS_CSE660"
+                },
+                "ECE": {
+                    "ML": "IIITD_ML_CSE343/ECE363/ECE563/CSE543",
+                    "RS": "IIITD_RS_ECE432/632",
+                    "VDF": "IIITD_VDF_ECE513",
+                    "WCE": "IIITD_WCE_ECE537",
+                    "PDCS": "IIITD_PDCS_ECE543",
+                    "OCNS": "IIITD_OCNS_ECE571",
+                    "AELD": "IIITD_AELD_ECE573",
+                    "MLRC": "IIITD_MLRC_ECE577",
+                    "AOMML": "IIITD_AOMML_ECE5aom",
+                    "ET": "IIITD_ET_ECE5et",
+                    "MDT": "IIITD_MDT_ECE611",
+                    "INT": "IIITD_InT_ECE634/CSE646",
+                    "IAMI": "IIITD_IAMI_ECE667A",
+                    "RM": "IIITD_RM_ENG599s"
+                },
+                "HCD": {
+                    "FAE": "IIITD_FAE_DES501",
+                    "GDD": "IIITD_GDD_DES512",
+                    "CIPD": "IIITD_CIPD_DES523"
+                },
+                "MATHS": {
+                    "IML": "IIITD_IML_MTH300",
+                    "GT": "IIITD_GT_MTH310",
+                    "SI": "IIITD_SI_MTH372",
+                    "CIA": "IIITD_CIA_MTH311",
+                    "LO": "IIITD_LO_MTH374/MTH574",
+                    "ALA": "IIITD_ALA_MTH510",
+                    "COT": "IIITD_COT_MTH514",
+                    "MPT": "IIITD_MPT_MTH546",
+                    "IFA": "IIITD_IFA_MTH542",
+                    "CRN": "IIITD_CRN_MTH544",
+                    "VCA": "IIITD_VCA_MTH599"
+                },
+                "SSH": {
+                    "SOE": "IIITD_SoE_ENT404",
+                    "FOM": "IIITD_FOM_ENTxxx",
+                    "EEE": "IIITD_EEE_ESC207",
+                    "ECOMM": "IIITD_ECOMM_MGT310",
+                    "EI": "IIITD_EI_SSH325/525",
+                    "MA": "IIITD_MA_ECO333",
+                    "COO": "IIITD_COO_MTH377/MTH577",
+                    "VPM": "IIITD_VPM_ECO332",
+                    "EF": "IIITD_EF_ENT413",
+                    "SP": "IIITD_SP_PSY302",
+                    "ATP": "IIITD_ATP_PSY305/PSY505",
+                    "LM": "IIITD_LM_PSY306/PSY506",
+                    "SOI": "IIITD_SOI_SOC313/SOC503",
+                    "TE": "IIITD_TE_SSH300/SSH500",
+                    "JALANG": "IIITD_JALang_SSH3xx"
+                }
+            }
+        },
+        "4": {
+            "SEMESTER 7": {
+                "BIO": {
+                    "COMEG": "IIITD_CoMeGBIO5xx"
+                },
+                "CB": {
+                    "BIOP": "IIITD_BioP_BIO361",
+                    "ABIN": "IIITD_ABIN_BIO321",
+                    "CHI": "IIITD_Chi_BIO523",
+                    "MLBA": "IIITD_MLBA_BIO542",
+                    "NB": "IIITD_NB_BIO532",
+                    "CGAS": "IIITD_CGAS_BIO544",
+                    "CBB": "IIITD_CBB_BIO511",
+                    "CM": "IIITD_CM_BIO546_CSE585",
+                    "FOMB": "IIITD_FOMB_BIO512",
+                    "COMEG": "IIITD_CoMeG_BIO549",
+                    "BIP": "IIITD_BIP_BIO524",
+                    "PCB": "IIITD_PCB_BIO551A"
+                },
+                "CSE": {
+                    "GA": "IIITD_GA_CSE525",
+                    "ML": "IIITD_ML_CSE343_CSE543_ECE363_E\nCE563",
+                    "OOPD": "IIITD_OOPD_CSE600A/ECE600A",
+                    "CN": "IIITD_CN_CSE232",
+                    "DIP": "IIITD_DIP_CSE340_CSE540_ECE350",
+                    "FCS": "IIITD_FCS_CSE345_CSE545",
+                    "AI": "IIITD_AI_CSE643",
+                    "MAD": "IIITD_MAD_CSE319_CSE519",
+                    "NLP": "IIITD_NLP_CSE556",
+                    "IIA": "IIITD_IIA_CSE656",
+                    "CG": "IIITD_CG_CSE333_CSE533",
+                    "CMP": "IIITD_CMP_CSE301/CSE601",
+                    "AML": "IIITD_AML_CSE642",
+                    "AC": "IIITD_AC_CSE546",
+                    "CA": "IIITD_CA_ECE511_CSE511",
+                    "AAG": "IIITD_AAG_CSE529",
+                    "DMG": "IIITD_DMG_CSE506",
+                    "PRMP": "IIITD_PRMP_CSE513",
+                    "CLDC": "IIITD_CldC_CSE569",
+                    "AUU": "IIITD_AUU_CSE586",
+                    "DFML": "IIITD_DFML_CSE665A",
+                    "DP": "IIITD_DP_CSE504",
+                    "DSC": "IIITD_DSc_CSE558",
+                    "NSS I": "IIITD_NSS I_CSE553",
+                    "OOPD(2)": "IIITD_OOPD(2)_ECE600A",
+                    "OOPD(4)": "IIITD_OOPD(4)_CSE600_ECE600",
+                    "SDOS": "IIITD_SDOS_CSE583",
+                    "TDL": "IIITD_TDL_CSE516_ECE559",
+                    "WN": "IIITD_WN_CSE538_ECE538"
+                },
+                "ECE": {
+                    "DCS": "IIITD_DCS_ECE340",
+                    "DSP": "IIITD_DSP_ECE351",
+                    "OWC": "IIITD_OWC_ECE546",
+                    "DVD": "IIITD_DVD_ECE314_ECE514",
+                    "PRP": "IIITD_PRP_ECE501",
+                    "CMOS": "IIITD_CMOS_ECE315_ECE515",
+                    "TGI": "IIITD_TGI_ECE565",
+                    "DPM": "IIITD_DPM_ECE560",
+                    "QMD": "IIITD_QMD_ECE524",
+                    "BML": "IIITD_BML_ECE551_CSE515",
+                    "ICF": "IIITD_ICF_ECE522",
+                    "LST": "IIITD_LST_ECE570",
+                    "RL": "IIITD_RL_ECE564_CSE564",
+                    "QM": "IIITD_QM_ECE525",
+                    "IROB": "IIITD_IRob_CSE633_ECE670",
+                    "SSD": "IIITD_SSD_ECE318_ECE518",
+                    "WSI": "IIITD_WSI_ECE539",
+                    "ADL": "IIITD_ADL_ECE677_CSE677",
+                    "DPD": "IIITD_DPD_ECE523A",
+                    "PDCS": "IIITD_PDCS_ECE543",
+                    "QCN": "IIITD_QCN_ECE530"
+                },
+                "HCD": {
+                    "IAG": "IIITD_IAG_DES302",
+                    "3DAF": "IIITD_3DAF_DES305",
+                    "DAVP": "IIITD_DAVP_DES514",
+                    "DF": "IIITD_DF_DES509",
+                    "EFD": "IIITD_EFD_DES524",
+                    "BAI": "IIITD_BAI_DES530",
+                    "FAE": "IIITD_FAE_DES501",
+                    "IDUDA": "IIITD_IDUDA_DES522",
+                    "MDG": "IIITD_MDG_DES526_307",
+                    "UDXR": "IIITD_UDXR_DES527"
+                },
+                "MATHS": {
+                    "TNT": "IIITD_TNT_MTH518",
+                    "CMPA": "IIITD_CmpA_MTH341_MTH541",
+                    "SC": "IIITD_SC_MTH373_MTH573",
+                    "SPA": "IIITD_SPA_MTH371",
+                    "ITA": "IIITD_ITA_MTH571",
+                    "RA-II": "IIITD_RA-II_MTH340_MTH540",
+                    "IAGA": "IIITD_IAGA_MTH561",
+                    "NDMA": "IIITD_NDMA_MTH359_MTH559",
+                    "PST": "IIITD_PST_MTH562",
+                    "TML": "IIITD_TML_MTH506"
+                },
+                "SSH": {
+                    "KPCC": "IIITD_KPCC_SSH700",
+                    "PT": "IIITD_PT_SSH322/SSH522",
+                    "FF": "IIITD_FF_ECO331",
+                    "TCOM": "IIITD_Tcom_COM301A",
+                    "ME": "IIITD_ME_ECO301",
+                    "EVS": "IIITD_EVS_ESC205A",
+                    "EK": "IIITD_EK_ENT412",
+                    "SSSE": "IIITD_SSSE_ECO324/ECO524",
+                    "TFW": "IIITD_TFW_SOC314_SOC512",
+                    "GMT": "IIITD_GMT_ECO311_ECO511",
+                    "NDM": "IIITD_NDM_PSY307_PSY507",
+                    "ETB": "IIITD_ETB_SOC513",
+                    "ECOMM": "IIITD_EComm_ENT411",
+                    "USPP": "IIITD_USPP_SSH362_SSH562",
+                    "CT": "IIITD_CT_ECO502",
+                    "G&M": "IIITD_G&M_SOC308_SOC514",
+                    "CMM": "IIITD_CMM_PSY308_PSY508",
+                    "AERM": "IIITD_AERM_SOC311_SOC501",
+                    "BECO": "IIITD_Beco_ECO314",
+                    "CGS": "IIITD_CGS_SSH225A",
+                    "CI": "IIITD_CI_ECO323_ECO523",
+                    "CMSMR": "IIITD_CMSMR_SSH327A_SSH527A",
+                    "FOE": "IIITD_FOE_ENT201",
+                    "NVP": "IIITD_NVP_ENT415",
+                    "RHPS": "IIITD_RHPS_SSH526_726",
+                    "SOE": "IIITD_SoE_ENT202",
+                    "STS": "IIITD_STS_SOC211"
+                }
+            },
+            "SEMESTER 8": {
+                "CB": {
+                    "ACB": "IIITD_ACB_BIO522",
+                    "IMB": "IIITD_IMB_BIO531",
+                    "BDMH": "IIITD_BDMH_BIO543",
+                    "BIOSTATS": "IIITD_BioStats_BIO545",
+                    "HMDS": "IIITD_HMDS_BIO548",
+                    "CADD": "IIITD_CADD_BIO563",
+                    "DSG": "IIITD_DSG_BIO541",
+                    "NS": "IIITD_NS_CSE655"
+                },
+                "CSE": {
+                    "TOC": "IIITD_ToC_CSE322",
+                    "DSCD": "IIITD_DSCD_CSE530",
+                    "SAP": "IIITD_SAP_CSE572/ECE561",
+                    "SML": "IIITD_SML_CSE542/ECE556",
+                    "CV": "IIITD_CV_CSE344/CSE544/ECE344/ECE544",
+                    "NSC": "IIITD_NSC_CSE350/CSE550",
+                    "NSS-II": "IIITD_NSS-II_CSE354/CSE554",
+                    "USS": "IIITD_UsS_CSE347/652/DES525/DES306",
+                    "FPP": "IIITD_FPP_CSE502",
+                    "IR": "IIITD_IR_CSE508",
+                    "CLDS": "IIITD_CLDS_CSE518",
+                    "RA": "IIITD_RA_CSE523",
+                    "LCS": "IIITD_LCS_CSE526",
+                    "MC": "IIITD_MC_CSE535",
+                    "WN": "IIITD_WN_CSE538/ECE538",
+                    "BDA": "IIITD_BDA_CSE557",
+                    "GPU": "IIITD_GPU_CSE560",
+                    "PN": "IIITD_PN_CSE567",
+                    "ISY": "IIITD_ISy_CSE573",
+                    "MTL": "IIITD_MTL_CSE618",
+                    "IQC": "IIITD_IQC_CSE622",
+                    "SWEB": "IIITD_Sweb_CSE632",
+                    "CF": "IIITD_CF_CSE640",
+                    "DL": "IIITD_DL_CSE641",
+                    "TAIS": "IIITD_TAIS_CSE660"
+                },
+                "ECE": {
+                    "ML": "IIITD_ML_CSE343/ECE363/ECE563/CSE543",
+                    "RS": "IIITD_RS_ECE432/632",
+                    "VDF": "IIITD_VDF_ECE513",
+                    "WCE": "IIITD_WCE_ECE537",
+                    "PDCS": "IIITD_PDCS_ECE543",
+                    "OCNS": "IIITD_OCNS_ECE571",
+                    "AELD": "IIITD_AELD_ECE573",
+                    "MLRC": "IIITD_MLRC_ECE577",
+                    "AOMML": "IIITD_AOMML_ECE5aom",
+                    "ET": "IIITD_ET_ECE5et",
+                    "MDT": "IIITD_MDT_ECE611",
+                    "INT": "IIITD_InT_ECE634/CSE646",
+                    "IAMI": "IIITD_IAMI_ECE667A",
+                    "RM": "IIITD_RM_ENG599s"
+                },
+                "HCD": {
+                    "FAE": "IIITD_FAE_DES501",
+                    "GDD": "IIITD_GDD_DES512",
+                    "CIPD": "IIITD_CIPD_DES523"
+                },
+                "MATHS": {
+                    "IML": "IIITD_IML_MTH300",
+                    "GT": "IIITD_GT_MTH310",
+                    "SI": "IIITD_SI_MTH372",
+                    "CIA": "IIITD_CIA_MTH311",
+                    "LO": "IIITD_LO_MTH374/MTH574",
+                    "ALA": "IIITD_ALA_MTH510",
+                    "COT": "IIITD_COT_MTH514",
+                    "MPT": "IIITD_MPT_MTH546",
+                    "IFA": "IIITD_IFA_MTH542",
+                    "CRN": "IIITD_CRN_MTH544",
+                    "VCA": "IIITD_VCA_MTH599"
+                },
+                "SSH": {
+                    "SOE": "IIITD_SoE_ENT404",
+                    "FOM": "IIITD_FOM_ENTxxx",
+                    "EEE": "IIITD_EEE_ESC207",
+                    "ECOMM": "IIITD_ECOMM_MGT310",
+                    "EI": "IIITD_EI_SSH325/525",
+                    "MA": "IIITD_MA_ECO333",
+                    "COO": "IIITD_COO_MTH377/MTH577",
+                    "VPM": "IIITD_VPM_ECO332",
+                    "EF": "IIITD_EF_ENT413",
+                    "SP": "IIITD_SP_PSY302",
+                    "ATP": "IIITD_ATP_PSY305/PSY505",
+                    "LM": "IIITD_LM_PSY306/PSY506",
+                    "SOI": "IIITD_SOI_SOC313/SOC503",
+                    "TE": "IIITD_TE_SSH300/SSH500",
+                    "JALANG": "IIITD_JALang_SSH3xx"
+                }
+            }
+        },
+        "M TECH": {
+            "ODD SEMESTER": {
+                "BIO": {
+                    "COMEG": "IIITD_CoMeGBIO5xx"
+                },
+                "CB": {
+                    "BIOP": "IIITD_BioP_BIO361",
+                    "ABIN": "IIITD_ABIN_BIO321",
+                    "CHI": "IIITD_Chi_BIO523",
+                    "MLBA": "IIITD_MLBA_BIO542",
+                    "NB": "IIITD_NB_BIO532",
+                    "CGAS": "IIITD_CGAS_BIO544",
+                    "CBB": "IIITD_CBB_BIO511",
+                    "CM": "IIITD_CM_BIO546_CSE585",
+                    "FOMB": "IIITD_FOMB_BIO512",
+                    "COMEG": "IIITD_CoMeG_BIO549",
+                    "BIP": "IIITD_BIP_BIO524",
+                    "PCB": "IIITD_PCB_BIO551A"
+                },
+                "CSE": {
+                    "GA": "IIITD_GA_CSE525",
+                    "ML": "IIITD_ML_CSE343_CSE543_ECE363_E\nCE563",
+                    "OOPD": "IIITD_OOPD_CSE600A/ECE600A",
+                    "CN": "IIITD_CN_CSE232",
+                    "DIP": "IIITD_DIP_CSE340_CSE540_ECE350",
+                    "FCS": "IIITD_FCS_CSE345_CSE545",
+                    "AI": "IIITD_AI_CSE643",
+                    "MAD": "IIITD_MAD_CSE319_CSE519",
+                    "NLP": "IIITD_NLP_CSE556",
+                    "IIA": "IIITD_IIA_CSE656",
+                    "CG": "IIITD_CG_CSE333_CSE533",
+                    "CMP": "IIITD_CMP_CSE301/CSE601",
+                    "AML": "IIITD_AML_CSE642",
+                    "AC": "IIITD_AC_CSE546",
+                    "CA": "IIITD_CA_ECE511_CSE511",
+                    "AAG": "IIITD_AAG_CSE529",
+                    "DMG": "IIITD_DMG_CSE506",
+                    "PRMP": "IIITD_PRMP_CSE513",
+                    "CLDC": "IIITD_CldC_CSE569",
+                    "AUU": "IIITD_AUU_CSE586",
+                    "DFML": "IIITD_DFML_CSE665A",
+                    "DP": "IIITD_DP_CSE504",
+                    "DSC": "IIITD_DSc_CSE558",
+                    "NSS I": "IIITD_NSS I_CSE553",
+                    "OOPD(2)": "IIITD_OOPD(2)_ECE600A",
+                    "OOPD(4)": "IIITD_OOPD(4)_CSE600_ECE600",
+                    "SDOS": "IIITD_SDOS_CSE583",
+                    "TDL": "IIITD_TDL_CSE516_ECE559",
+                    "WN": "IIITD_WN_CSE538_ECE538"
+                },
+                "ECE": {
+                    "DCS": "IIITD_DCS_ECE340",
+                    "DSP": "IIITD_DSP_ECE351",
+                    "OWC": "IIITD_OWC_ECE546",
+                    "DVD": "IIITD_DVD_ECE314_ECE514",
+                    "PRP": "IIITD_PRP_ECE501",
+                    "CMOS": "IIITD_CMOS_ECE315_ECE515",
+                    "TGI": "IIITD_TGI_ECE565",
+                    "DPM": "IIITD_DPM_ECE560",
+                    "QMD": "IIITD_QMD_ECE524",
+                    "BML": "IIITD_BML_ECE551_CSE515",
+                    "ICF": "IIITD_ICF_ECE522",
+                    "LST": "IIITD_LST_ECE570",
+                    "RL": "IIITD_RL_ECE564_CSE564",
+                    "QM": "IIITD_QM_ECE525",
+                    "IROB": "IIITD_IRob_CSE633_ECE670",
+                    "SSD": "IIITD_SSD_ECE318_ECE518",
+                    "WSI": "IIITD_WSI_ECE539",
+                    "ADL": "IIITD_ADL_ECE677_CSE677",
+                    "DPD": "IIITD_DPD_ECE523A",
+                    "PDCS": "IIITD_PDCS_ECE543",
+                    "QCN": "IIITD_QCN_ECE530"
+                },
+                "HCD": {
+                    "IAG": "IIITD_IAG_DES302",
+                    "3DAF": "IIITD_3DAF_DES305",
+                    "DAVP": "IIITD_DAVP_DES514",
+                    "DF": "IIITD_DF_DES509",
+                    "EFD": "IIITD_EFD_DES524",
+                    "BAI": "IIITD_BAI_DES530",
+                    "FAE": "IIITD_FAE_DES501",
+                    "IDUDA": "IIITD_IDUDA_DES522",
+                    "MDG": "IIITD_MDG_DES526_307",
+                    "UDXR": "IIITD_UDXR_DES527"
+                },
+                "MATHS": {
+                    "TNT": "IIITD_TNT_MTH518",
+                    "CMPA": "IIITD_CmpA_MTH341_MTH541",
+                    "SC": "IIITD_SC_MTH373_MTH573",
+                    "SPA": "IIITD_SPA_MTH371",
+                    "ITA": "IIITD_ITA_MTH571",
+                    "RA-II": "IIITD_RA-II_MTH340_MTH540",
+                    "IAGA": "IIITD_IAGA_MTH561",
+                    "NDMA": "IIITD_NDMA_MTH359_MTH559",
+                    "PST": "IIITD_PST_MTH562",
+                    "TML": "IIITD_TML_MTH506"
+                },
+                "SSH": {
+                    "KPCC": "IIITD_KPCC_SSH700",
+                    "PT": "IIITD_PT_SSH322/SSH522",
+                    "FF": "IIITD_FF_ECO331",
+                    "TCOM": "IIITD_Tcom_COM301A",
+                    "ME": "IIITD_ME_ECO301",
+                    "EVS": "IIITD_EVS_ESC205A",
+                    "EK": "IIITD_EK_ENT412",
+                    "SSSE": "IIITD_SSSE_ECO324/ECO524",
+                    "TFW": "IIITD_TFW_SOC314_SOC512",
+                    "GMT": "IIITD_GMT_ECO311_ECO511",
+                    "NDM": "IIITD_NDM_PSY307_PSY507",
+                    "ETB": "IIITD_ETB_SOC513",
+                    "ECOMM": "IIITD_EComm_ENT411",
+                    "USPP": "IIITD_USPP_SSH362_SSH562",
+                    "CT": "IIITD_CT_ECO502",
+                    "G&M": "IIITD_G&M_SOC308_SOC514",
+                    "CMM": "IIITD_CMM_PSY308_PSY508",
+                    "AERM": "IIITD_AERM_SOC311_SOC501",
+                    "BECO": "IIITD_Beco_ECO314",
+                    "CGS": "IIITD_CGS_SSH225A",
+                    "CI": "IIITD_CI_ECO323_ECO523",
+                    "CMSMR": "IIITD_CMSMR_SSH327A_SSH527A",
+                    "FOE": "IIITD_FOE_ENT201",
+                    "NVP": "IIITD_NVP_ENT415",
+                    "RHPS": "IIITD_RHPS_SSH526_726",
+                    "SOE": "IIITD_SoE_ENT202",
+                    "STS": "IIITD_STS_SOC211"
+                }
+            },
+            "EVEN SEMESTER": {
+                "CB": {
+                    "ACB": "IIITD_ACB_BIO522",
+                    "IMB": "IIITD_IMB_BIO531",
+                    "BDMH": "IIITD_BDMH_BIO543",
+                    "BIOSTATS": "IIITD_BioStats_BIO545",
+                    "HMDS": "IIITD_HMDS_BIO548",
+                    "CADD": "IIITD_CADD_BIO563",
+                    "DSG": "IIITD_DSG_BIO541",
+                    "NS": "IIITD_NS_CSE655"
+                },
+                "CSE": {
+                    "TOC": "IIITD_ToC_CSE322",
+                    "DSCD": "IIITD_DSCD_CSE530",
+                    "SAP": "IIITD_SAP_CSE572/ECE561",
+                    "SML": "IIITD_SML_CSE542/ECE556",
+                    "CV": "IIITD_CV_CSE344/CSE544/ECE344/ECE544",
+                    "NSC": "IIITD_NSC_CSE350/CSE550",
+                    "NSS-II": "IIITD_NSS-II_CSE354/CSE554",
+                    "USS": "IIITD_UsS_CSE347/652/DES525/DES306",
+                    "FPP": "IIITD_FPP_CSE502",
+                    "IR": "IIITD_IR_CSE508",
+                    "CLDS": "IIITD_CLDS_CSE518",
+                    "RA": "IIITD_RA_CSE523",
+                    "LCS": "IIITD_LCS_CSE526",
+                    "MC": "IIITD_MC_CSE535",
+                    "WN": "IIITD_WN_CSE538/ECE538",
+                    "BDA": "IIITD_BDA_CSE557",
+                    "GPU": "IIITD_GPU_CSE560",
+                    "PN": "IIITD_PN_CSE567",
+                    "ISY": "IIITD_ISy_CSE573",
+                    "MTL": "IIITD_MTL_CSE618",
+                    "IQC": "IIITD_IQC_CSE622",
+                    "SWEB": "IIITD_Sweb_CSE632",
+                    "CF": "IIITD_CF_CSE640",
+                    "DL": "IIITD_DL_CSE641",
+                    "TAIS": "IIITD_TAIS_CSE660"
+                },
+                "ECE": {
+                    "ML": "IIITD_ML_CSE343/ECE363/ECE563/CSE543",
+                    "RS": "IIITD_RS_ECE432/632",
+                    "VDF": "IIITD_VDF_ECE513",
+                    "WCE": "IIITD_WCE_ECE537",
+                    "PDCS": "IIITD_PDCS_ECE543",
+                    "OCNS": "IIITD_OCNS_ECE571",
+                    "AELD": "IIITD_AELD_ECE573",
+                    "MLRC": "IIITD_MLRC_ECE577",
+                    "AOMML": "IIITD_AOMML_ECE5aom",
+                    "ET": "IIITD_ET_ECE5et",
+                    "MDT": "IIITD_MDT_ECE611",
+                    "INT": "IIITD_InT_ECE634/CSE646",
+                    "IAMI": "IIITD_IAMI_ECE667A",
+                    "RM": "IIITD_RM_ENG599s"
+                },
+                "HCD": {
+                    "FAE": "IIITD_FAE_DES501",
+                    "GDD": "IIITD_GDD_DES512",
+                    "CIPD": "IIITD_CIPD_DES523"
+                },
+                "MATHS": {
+                    "IML": "IIITD_IML_MTH300",
+                    "GT": "IIITD_GT_MTH310",
+                    "SI": "IIITD_SI_MTH372",
+                    "CIA": "IIITD_CIA_MTH311",
+                    "LO": "IIITD_LO_MTH374/MTH574",
+                    "ALA": "IIITD_ALA_MTH510",
+                    "COT": "IIITD_COT_MTH514",
+                    "MPT": "IIITD_MPT_MTH546",
+                    "IFA": "IIITD_IFA_MTH542",
+                    "CRN": "IIITD_CRN_MTH544",
+                    "VCA": "IIITD_VCA_MTH599"
+                },
+                "SSH": {
+                    "SOE": "IIITD_SoE_ENT404",
+                    "FOM": "IIITD_FOM_ENTxxx",
+                    "EEE": "IIITD_EEE_ESC207",
+                    "ECOMM": "IIITD_ECOMM_MGT310",
+                    "EI": "IIITD_EI_SSH325/525",
+                    "MA": "IIITD_MA_ECO333",
+                    "COO": "IIITD_COO_MTH377/MTH577",
+                    "VPM": "IIITD_VPM_ECO332",
+                    "EF": "IIITD_EF_ENT413",
+                    "SP": "IIITD_SP_PSY302",
+                    "ATP": "IIITD_ATP_PSY305/PSY505",
+                    "LM": "IIITD_LM_PSY306/PSY506",
+                    "SOI": "IIITD_SOI_SOC313/SOC503",
+                    "TE": "IIITD_TE_SSH300/SSH500",
+                    "JALANG": "IIITD_JALang_SSH3xx"
+                }
+            }
+        }
+    }
+}
